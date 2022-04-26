@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">DTT Real Estate</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDilMALK3q0JctdTdu3xtSkrHKjwUYbQ74</string>
+
+    <string name="navbar_home">Home</string>
+    <string name="navbar_information">Information</string>
+
+    <string name="overview_title">DTT REAL ESTATE</string>
+    <string name="information_title">ABOUT</string>
+    <string name="description_title">Description</string>
+    <string name="location_title">Location</string>
+    <string name="design_title">Design and Development</string>
+    <string name="by_dtt">by DTT</string>
+    <string name="dtt_link">d-tt.nl</string>
+
+    <string name="location_placeholder">unav</string>
+    <string name="size_placeholder">46</string>
+    <string name="bathroom_placeholder">1</string>
+    <string name="bedroom_placeholder">1</string>
+    <string name="price_placeholder">$45,000</string>
+    <string name="about_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis nunc dolor. Suspendisse vehicula lorem ac lacus consectetur dignissim vel nec sem. Proin quis tellus sollicitudin purus placerat luctus vel at tellus. Praesent non pretium quam. Nulla fermentum nisl at eros elementum, id bibendum nulla ornare. Nullam suscipit sem sem, ut pellentesque enim pellentesque vel. Etiam condimentum ut ipsum condimentum maximus. Nunc interdum varius auctor. Aenean sapien erat, ornare eget libero ac, fermentum malesuada massa. Donec laoreet fringilla turpis vel venenatis. Nam tincidunt velit sit amet massa iaculis congue. Praesent eu semper nibh. Donec id vulputate tortor.</string>
+    <string name="address_placeholder">1011KH Raamgracht</string>
+
+    <string name="search_hint">Search for a home</string>
+    <string name="no_result_text">No results found! \n Perhaps try another search?</string>
+    <string name="api_error_text">Problem with fetching houses! \n Check your internet connection and try again. If the problem persists contact DTT from the information page.</string>
+
+
+    <string name="content_description_house">House Image</string>
+    <string name="content_description_arrow">Back Arrow</string>
+    <string name="content_description_bedroom">Bedroom Icon</string>
+    <string name="content_description_bathroom">Bathroom Icon</string>
+    <string name="content_description_size">Size Icon</string>
+    <string name="content_description_location">Location Icon</string>
+    <string name="content_description_dtt_logo">DTT Logo</string>
+    <string name="content_description_dtt_icon">DTT Icon</string>
+    <string name="content_description_search">Search Icon</string>
+    <string name="content_description_no_results">No Results Icon</string>
+
+    <string name="alert_title">Location Required</string>
+    <string name="alert_message">If you do not enable location, you won\'t be able to see the distance to the properties</string>
+    <string name="alert_positive">Allow</string>
+    <string name="alert_negative">Dismiss</string>
+</resources>
